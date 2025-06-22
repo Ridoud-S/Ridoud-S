@@ -5,7 +5,7 @@
 - 🎻 **Hobbies:** I'm a passionate violinist and enjoy learning new pieces.
 - 💻 **Interests:** Backend development, cybersecurity, and everything related to tech.
 - 🌐 **Location:** Celaya, Mexico.
-- 📚 **Fun fact:** Sometimes I forget basic things in programming LMAO
+
 
 ## Tech Stack
 - **Languages:** Java, Python, JavaScript
@@ -20,9 +20,6 @@
   - Docker & containerization
   - Spring 
 
-## Goals
-- 🏆 **Short Term:** Build a full-stack application (React + Spring Boot) that allows teachers to manage student grades.
-- 🚀 **Long Term:** Become a well-rounded software engineer and security specialist.
 
 ## How to Reach Me
 - **LinkedIn:** Jaime Serrano (https://www.linkedin.com/in/jaime-serrano-2361572b1/)
