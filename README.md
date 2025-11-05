@@ -1,37 +1,50 @@
-# Hi there, I'm @Ridoud-S! 👋
+# 👋 Hi there, I'm Jaime Serrano (@Ridoud-S)
 
-## About Me
-- 🎓 **Currently studying:** Computer Systems at TecNM Celaya, with a focus on cybersecurity.
-- 🎻 **Hobbies:** I'm a passionate violinist and enjoy learning new pieces.
-- 💻 **Interests:** Backend development, cybersecurity, and everything related to tech.
-- 🌐 **Location:** Celaya, Mexico.
+## 🚀 About Me
+I'm a **Computer Systems student** at *TecNM Celaya* passionate about **cloud development**, **aerospace technology**, and **fintech innovation**.  
+I enjoy building scalable software and exploring how technology can improve real-world systems — from **flight operations** to **financial solutions**.
 
+🎯 **Focus areas:**  
+- Cloud & serverless architectures (AWS)  
+- Aerospace software systems  
+- Fintech applications & data-driven solutions  
+- Secure and scalable backend development  
 
-## Tech Stack
-- **Languages:** Java, Python, JavaScript
-- **Frameworks:** Spring Boot
-- **Databases:** PostgreSQL, MySQL
-- **Tools:** Git, GitHub, Docker, IntelliJ
+🎻 When I’m not coding, I’m probably playing violin or learning something new in tech.
 
-## What I'm Learning
-- 🌱 **Currently exploring:** 
-  - Advanced Spring Security and JWT
-  - React for frontend development
-  - Docker & containerization
-  - Spring 
+---
 
+## 🧠 Tech Stack
+**Languages:** Java ☕ | Python 🐍 | JavaScript ⚡  
+**Frameworks & Libraries:** Spring Boot | React | Next.js | TailwindCSS  
+**Cloud & Tools:** AWS (Amplify, Lambda, RDS, DynamoDB) | Docker | Git | GitHub | IntelliJ  
+**Databases:** PostgreSQL | MySQL  
 
-## How to Reach Me
-- **LinkedIn:** Jaime Serrano (https://www.linkedin.com/in/jaime-serrano-2361572b1/)
+---
 
-## Collaboration
-- 💞️ **I'm looking to collaborate on:** Open-source projects involving cybersecurity, backend development, 
+## 🌱 Currently Exploring
+- AWS Amplify + fullstack cloud apps  
+- Fintech-oriented API design (secure transactions, JWT auth)  
+- Aerospace data visualization with React & Next.js  
+- Advanced Spring Boot microservices  
 
-## Pronouns
-- 😄 **Pronouns:** He/Him *(or whichever you prefer)*
+---
 
-## GitHub Stats
-<!-- Optionally, you can use GitHub Readme Stats (https://github.com/anuraghazra/github-readme-stats) -->
+## 🤝 Collaboration
+I'm open to collaborate on projects involving:
+- Cloud & backend development  
+- Aerospace or fintech software  
+- Open-source tools and API-driven systems  
+
+---
+
+## 📫 Let's Connect
+[💼 LinkedIn](https://www.linkedin.com/in/jaime-serrano-2361572b1/)  
+[📧 Email](jaimealejandroserranovazquez0@gmail.com) —  
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ridoud-S&show_icons=true&theme=radical" alt="Ridoud-S's GitHub stats" />
 </p>
@@ -39,3 +52,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ridoud-S&layout=compact&theme=radical" />
 </p>
+
+---
+⭐ *Always learning. Always building.*
