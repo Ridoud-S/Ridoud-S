@@ -18,7 +18,7 @@ I enjoy building scalable software and exploring how technology can improve real
 **Languages:** Java ☕ | Python 🐍 | JavaScript ⚡  
 **Frameworks & Libraries:** Spring Boot | React | Next.js | TailwindCSS  
 **Cloud & Tools:** AWS (Amplify, Lambda, RDS, DynamoDB) | Docker | Git | GitHub | IntelliJ  
-**Databases:** PostgreSQL | MySQL  
+**Databases:** PostgreSQL | MySQL | MongoDB  
 
 ---
 
